@@ -40,3 +40,20 @@ Added the additional stylesheets and scripts from the CSS_JS.txt file in _Layout
 Added a dropdown to the Navbar in Views/Shared/_Layout.cshtml
 Saved, Refreshed and Reviewed the UI
 Changed Dropdown to Content management
+
+4:47 pm
+Setting up the Project(Part-1)
+Part 1.4 Add Projects and Modify
+Added three new projects (.NET Core class library) to the application:
+ShubhamBooks.DataAccess
+ShubhamBooks.Models
+ShubhamBooks.Utility
+Copied the Data folder and pasted it to .DataAccess project (deleted the original)
+Installed Nudget packages
+Deleted the Migrations folder
+Installed Nudget Package
+Modified the namespace to reflect the project
+Deleted default Class1.cs file in all projects
+
+
+Build the project
