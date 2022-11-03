@@ -55,5 +55,11 @@ Installed Nudget Package
 Modified the namespace to reflect the project
 Deleted default Class1.cs file in all projects
 
-
+5:29 pm
+Build the project
+Moved Models in ShubhamBooks.Models and deleted original
+Modified Views/Shared/Error.cshtml
+Added project reference .DataAccess and .Models
+Renamed Models folder to ViewModels
+Changed the ErrorViewmodels.cs namespace .Models.Viewmodels
 Build the project
