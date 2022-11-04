@@ -72,3 +72,6 @@ Failed
 Removed the using statement
 Corrected any default references to ErrorViewmodels to the .Models.ViewModels.ErrorViewmodels
 Error in namespace
+
+12:42pm
+Removed 'options => options.SignIn.RequireConfirmedAccount = true'
