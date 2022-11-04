@@ -63,3 +63,12 @@ Added project reference .DataAccess and .Models
 Renamed Models folder to ViewModels
 Changed the ErrorViewmodels.cs namespace .Models.Viewmodels
 Build the project
+
+9:57 am
+4th November 2022
+Modified startup.cs by adding context with the using statement
+Ran it to review errors
+Failed
+Removed the using statement
+Corrected any default references to ErrorViewmodels to the .Models.ViewModels.ErrorViewmodels
+Error in namespace
