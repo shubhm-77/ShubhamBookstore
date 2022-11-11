@@ -75,3 +75,7 @@ Error in namespace
 
 12:42pm
 Removed 'options => options.SignIn.RequireConfirmedAccount = true'
+
+2022 November 11th
+1:41 pm
+README updated
