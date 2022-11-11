@@ -1,5 +1,5 @@
-﻿3rd November 2022
-1552
+﻿2022 November 3rd
+3:52 pm
 Started Assignment 2
 Created New Project
 Selected ASP.NET Core Web App(Model-View-Controller)
@@ -36,24 +36,8 @@ ran it to review changes
 ran successfully
 
 4:17 pm
-Added the additional stylesheets -
-    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css" />
-and scripts -
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
-    <script src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js"></script>
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
-    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
-    <script src="https://kit.fontawesome.com/e19c476714.js"></script>
-    from the CSS_JS.txt file in _Layout.cshtml
+Added the additional stylesheets and scripts
 Added a dropdown to the Navbar in Views/Shared/_Layout.cshtml
-                                <a class=" nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Content Management</a>
-                                <div class=" dropdown-menu" sria-labelledby="navbarDropdown">
-                                    <a class="dropdown-item" href="#">Action</a>
-                                    <a class="dropdown-item" href="#">Another action</a>
-                                    <div class="dropdown-divider"></div>
-                                    <a class="dropdown-item" href="#">Something else here</a>
 Saved, Refreshed and Reviewed the UI
 Changed Dropdown to Content management
 
