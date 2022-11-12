@@ -1,11 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using ShubhamBookstore.Models;
-using System;
-using System.Collections.Generic;
+//using ShubhamBookstore.Models;
+//using System;
+//using System.Collections.Generic;
 using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
+//using System.Linq;
+//using System.Threading.Tasks;
 
 namespace ShubhamBookstore.Controllers
 {
@@ -31,7 +31,7 @@ namespace ShubhamBookstore.Controllers
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
-            return View(new ShubhamBookstore.Models.ViewModels.ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            return View(new ShubhamBookstore.Models.Viewmodels.ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
     }
 }

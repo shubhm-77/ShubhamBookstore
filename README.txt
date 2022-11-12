@@ -79,3 +79,7 @@ Removed 'options => options.SignIn.RequireConfirmedAccount = true'
 2022 November 11th
 1:41 pm
 README updated
+
+2022 November 12th
+4:57 pm
+Corrected mistake in HomeController.cs
