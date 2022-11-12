@@ -83,3 +83,8 @@ README updated
 2022 November 12th
 4:57 pm
 Corrected mistake in HomeController.cs
+
+5:06 pm
+Corrected Error.cshtml
+Ran it to review errors
+Review the browser presentation
