@@ -88,3 +88,13 @@ Corrected mistake in HomeController.cs
 Corrected Error.cshtml
 Ran it to review errors
 Review the browser presentation
+
+5:30 pm
+Created static detailed class named SD.cs in the Utility project
+Modified properties of class
+Added project reference to the main project
+Added project reference to Models and Utility in the DataAccess project
+Added a Customers area to the Areas
+Changed the routes in Startup.cs like the one outlined in the ScaffoldingReadMe.txt
+Moved the HomeController.cs to the Area > Customer > Controller folder
+Deleted Data and Models folder

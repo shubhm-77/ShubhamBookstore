@@ -63,8 +63,9 @@ namespace ShubhamBookstore
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{area:customers}/{controller=Home}/{action=Index}/{id?}");
                 endpoints.MapRazorPages();
+
             });
         }
     }
