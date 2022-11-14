@@ -110,4 +110,5 @@ Ran the application
 Added a new Admin Area in Areas
 Added the proper View files and deleted the Data and Models folder
 Deleted the Controllers folder
+modified spelling in HomeController.cs
 Updated the Github Repos
