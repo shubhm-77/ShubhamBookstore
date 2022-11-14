@@ -98,3 +98,16 @@ Added a Customers area to the Areas
 Changed the routes in Startup.cs like the one outlined in the ScaffoldingReadMe.txt
 Moved the HomeController.cs to the Area > Customer > Controller folder
 Deleted Data and Models folder
+
+2022 November 13th
+11:23 pm
+Edited the HomeController.cs to explicitly define that the controller is in the Customer Area
+Moved Views>Home and modified the HomeController namespace
+Ran the application....why?
+Copied _ViewImports and _ViewStart to Customers Area
+Modified ViewStart.cshtml to reflect the new path
+Ran the application
+Added a new Admin Area in Areas
+Added the proper View files and deleted the Data and Models folder
+Deleted the Controllers folder
+Updated the Github Repos
