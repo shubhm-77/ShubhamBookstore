@@ -112,3 +112,21 @@ Added the proper View files and deleted the Data and Models folder
 Deleted the Controllers folder
 modified spelling in HomeController.cs
 Updated the Github Repos
+
+2022 November 14th
+10:30 am
+Started part 2- Build the project
+2.1 Create the DB
+Build the application to check there are no errors
+Reviewed appsettings.json
+Created the migrations, modified the database and saved it.
+Used the NuGet package Manager Console to add the migration
+Wrong default project is selected
+Changed to the correct default project (.DataAccess) and ran again
+Added the new migration file name entry - 20221114164249_AddDefaultIdentityMigration.cs
+Reviewed the file for the SQL
+Noted the tables related to ASP.NET Identity
+Updated the database
+Reviewed the updated database in the SQL server
+checked for errors 
+ran it
