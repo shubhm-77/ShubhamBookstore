@@ -130,3 +130,4 @@ Updated the database
 Reviewed the updated database in the SQL server
 checked for errors 
 ran it
+Added a new class file to the .Models project and modified
