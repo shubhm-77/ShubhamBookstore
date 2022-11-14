@@ -131,3 +131,7 @@ Reviewed the updated database in the SQL server
 checked for errors 
 ran it
 Added a new class file to the .Models project and modified
+Added the migration via the PMConsole
+Updated new migration file and added new using statement
+Re-ran the new migration and resolved the error
+Updated the database and confirmed the new category table in SQL SOE
