@@ -135,3 +135,9 @@ Added the migration via the PMConsole
 Updated new migration file and added new using statement
 Re-ran the new migration and resolved the error
 Updated the database and confirmed the new category table in SQL SOE
+
+2.1 repository
+Added new folder named Repository
+Added new folder named IRepository in Repository folder
+Added new IRepository interface file in it
+Modified it
