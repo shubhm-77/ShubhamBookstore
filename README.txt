@@ -140,5 +140,5 @@ Updated the database and confirmed the new category table in SQL SOE
 Added new folder named Repository
 Added new folder named IRepository in Repository folder
 Added new IRepository interface file in it
-Modified it so it can be usedd on the Category vlass to do all the CRUD operations
+Modified it so it can be usedd on the Category class to do all the CRUD operations
 Methods to use CRUD: Get item from DB, List of Categories, Add objects, Remove objects
