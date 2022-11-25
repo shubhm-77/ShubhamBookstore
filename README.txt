@@ -142,3 +142,16 @@ Added new folder named IRepository in Repository folder
 Added new IRepository interface file in it
 Modified it so it can be usedd on the Category class to do all the CRUD operations
 Methods to use CRUD: Get item from DB, List of Categories, Add objects, Remove objects
+Implemented class that implement repository
+created individual repository
+Added CategoryRepository.cs and ICategoryrepository
+modified it
+created ISP_Call.cs class
+modified it
+created SP_Call.cs class
+created UnitOfWork.cs class
+modified it
+created UnitOfWork.cs class
+modified it
+build it, corrected it and push to github
+
