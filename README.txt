@@ -136,7 +136,7 @@ Updated new migration file and added new using statement
 Re-ran the new migration and resolved the error
 Updated the database and confirmed the new category table in SQL SOE
 
-2.1 repository
+
 Added new folder named Repository
 Added new folder named IRepository in Repository folder
 Added new IRepository interface file in it
@@ -155,3 +155,16 @@ created UnitOfWork.cs class
 modified it
 build it, corrected it and push to github
 
+step 3
+Added Coovertype.cs in model folder
+Added ICoverTyperepository and CoverTyperepository repository
+Added project type in model
+inserted code for product.cs
+Added reference product to ApplicationDbContext
+Added productrepository and IProductRepository interface
+Added product VM class
+Installed packages
+Added new index view
+modify layout.cshtml
+Added product controller
+Modified it
