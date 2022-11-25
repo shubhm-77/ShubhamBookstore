@@ -156,6 +156,7 @@ modified it
 build it, corrected it and push to github
 
 step 3
+25 November 2022
 Added Coovertype.cs in model folder
 Added ICoverTyperepository and CoverTyperepository repository
 Added project type in model
