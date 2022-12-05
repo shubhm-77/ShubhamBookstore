@@ -3,13 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShubhamBookstore", "ShubhamBookstore.csproj", "{08D228A2-F4DC-4194-BDFD-910A6E4650C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShubhamBookstore", "ShubhamBookstore.csproj", "{08D228A2-F4DC-4194-BDFD-910A6E4650C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShubhamBooks.DataAccess", "..\ShubhamBooks.DataAccess\ShubhamBooks.DataAccess.csproj", "{84006467-879F-4E02-BC51-C50C35ED04A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShubhamBooks.DataAccess", "..\ShubhamBooks.DataAccess\ShubhamBooks.DataAccess.csproj", "{84006467-879F-4E02-BC51-C50C35ED04A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShubhamBooks.Models", "..\ShubhamBooks.Models\ShubhamBooks.Models.csproj", "{31817B16-4123-4959-8DA0-6F76B69EAB65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShubhamBooks.Models", "..\ShubhamBooks.Models\ShubhamBooks.Models.csproj", "{31817B16-4123-4959-8DA0-6F76B69EAB65}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShubhamBooks.Utility", "..\ShubhamBooks.Utility\ShubhamBooks.Utility.csproj", "{F83B62F0-99D6-48CE-828D-9B0898D9B7F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShubhamBooks.Utility", "..\ShubhamBooks.Utility\ShubhamBooks.Utility.csproj", "{F83B62F0-99D6-48CE-828D-9B0898D9B7F4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B679CA19-5866-4548-B478-52B7BEF37860}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

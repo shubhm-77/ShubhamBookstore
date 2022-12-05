@@ -156,7 +156,7 @@ modified it
 build it, corrected it and push to github
 
 step 3
-25 November 2022
+2022 November 25
 Added Coovertype.cs in model folder
 Added ICoverTyperepository and CoverTyperepository repository
 Added project type in model
@@ -169,3 +169,12 @@ Added new index view
 modify layout.cshtml
 Added product controller
 Modified it
+
+step 4
+2022 December 5
+12:40 pm
+checked ApplicationDBContext file in Data in DataAccess
+checked Repository file in DataAccess
+checked Models 
+checked ErrorViewModel 
+checked files in ShubhamBookstore project
