@@ -177,4 +177,7 @@ checked ApplicationDBContext file in Data in DataAccess
 checked Repository file in DataAccess
 checked Models 
 checked ErrorViewModel 
+checked Utility
 checked files in ShubhamBookstore project
+found an Error in startup.cs file  
+got error in configuration line so added using Microsoft.AspNetCore.Identity.UI; library file
