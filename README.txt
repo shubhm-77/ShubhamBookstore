@@ -183,3 +183,4 @@ found an Error in startup.cs file
 got error in configuration line so added using Microsoft.AspNetCore.Identity.UI; library file
 checked Areas folder
 checked views folder
+checked program.cs
